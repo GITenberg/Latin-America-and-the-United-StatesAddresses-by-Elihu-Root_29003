@@ -1,0 +1,43 @@
+_repo: Latin-America-and-the-United-StatesAddresses-by-Elihu-Root_29003
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Root, Elihu
+    birthdate: 1845
+    deathdate: 1937
+    gutenberg_agent_id: '3555'
+    url: http://www.gutenberg.org/2009/agents/3555
+    wikipedia: http://en.wikipedia.org/wiki/Elihu_Root
+  editors:
+  - agent_name: Scott, James Brown
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '33630'
+    url: http://www.gutenberg.org/2009/agents/33630
+  - agent_name: Bacon, Robert
+    birthdate: 1860
+    deathdate: 1919
+    gutenberg_agent_id: '33629'
+    url: http://www.gutenberg.org/2009/agents/33629
+description: ''
+gutenberg_issued: '2009-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29003'
+  lccn: '17016739'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Foreign relations -- Latin America'
+- !lcsh 'America -- Foreign relations'
+- !lcc 'F1401'
+- !lcsh 'Latin America -- Foreign relations -- United States'
+title: 'Latin America and the United States
+
+  Addresses by Elihu Root'
+url: http://www.gutenberg.org/ebooks/29003
